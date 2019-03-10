@@ -1,4 +1,4 @@
-require_relative './fance_dance.rb'
+require_relative './fancy_dance.rb'
 
 class Kid
   extend FancyDance::ClassMethods
